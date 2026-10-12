@@ -10,7 +10,7 @@ public class Main {
         System.out.println( "my name is fana");
         System.out.println(" i am 26 years old");
         movie myMovie= new movie();
-        myMovie.title= "titanic2";
+        myMovie.title= "titanic3";
         System.out.println(" my favorite movie is " + myMovie.title);
 
 
